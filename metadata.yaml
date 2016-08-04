@@ -1,0 +1,26 @@
+_repo: The-Ink-Stain--Tache-d-encre----Complete_3975
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bazin, René
+    alias: Bazin, Rene
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '1348'
+    url: http://www.gutenberg.org/2009/agents/1348
+    wikipedia: http://en.wikipedia.org/wiki/René_Bazin
+description: ''
+gutenberg_issued: '2004-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: The Ink-Stain (Tache d'encre) — Complete
+url: http://www.gutenberg.org/ebooks/3975
